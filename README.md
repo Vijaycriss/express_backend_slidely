@@ -1,4 +1,6 @@
-# WinFormsApp2
+# Express Backend
+
+frontend git repo = https://github.com/Vijaycriss/Windows-Desktop-App_Slidely
 
 This project demonstrates how to create a VB.NET Windows Forms application that interacts with an Express backend using HTTP requests. The VB.NET application allows users to submit form data, which is then stored in a JSON file via the Express backend.
 
